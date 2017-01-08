@@ -1,0 +1,67 @@
+10
+
+dir
+3805
+svn://www.v7ex.com/branches/project_openwrt/openwrt_M8/package/kernel/lantiq
+svn://www.v7ex.com
+
+
+
+2017-01-08T12:57:44.514162Z
+3805
+zhongbin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+296e6c53-0fee-43ec-9699-a90b194a273f
+
+ltq-vdsl
+dir
+
+ltq-ifxos
+dir
+
+ltq-adsl-mei
+dir
+
+ltq-adsl-fw
+dir
+
+ltq-deu
+dir
+
+ltq-tapi
+dir
+
+ltq-hcd
+dir
+
+ltq-vdsl-mei
+dir
+
+ltq-ptm
+dir
+
+ltq-atm
+dir
+
+ltq-vdsl-fw
+dir
+
+ltq-vmmc
+dir
+
+ltq-adsl
+dir
+
